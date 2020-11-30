@@ -106,6 +106,7 @@ li:hover{
     float: right;
     text-align: right;
     -webkit-text-stroke: 0.1px black;
+    transition: font-size 1s;
 }
 .ab{
     border: solid 2px black;
@@ -118,6 +119,6 @@ li:hover{
 }
 
 .ab a:hover{
-    font-size: 60px;
+    font-size: 40px;
 }
 /*Access Button*/
