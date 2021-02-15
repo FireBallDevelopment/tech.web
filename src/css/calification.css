@@ -36,5 +36,5 @@ option:hover{
   margin-top: 20px;
   width: 400px;
   height: 300px;
-  
+  border: solid black 2px;
 }
