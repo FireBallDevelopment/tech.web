@@ -47,3 +47,10 @@ option:hover{
   width: 60px;
   height: 30px;
 }
+
+#sbmt{
+  border: solid black 2px;
+  font-family: 'Montserrat', sans-serif;
+  width: 100px;
+  height: 30px;
+}
