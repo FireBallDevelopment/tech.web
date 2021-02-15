@@ -20,6 +20,8 @@ select{
 
 #score{
   margin-top: 20px;
-  width: 600px;
-  height: 50px;
+  width: 300px;
+  height: 20px;
+  font-family: 'Montserrat', sans-serif;
+
 }
