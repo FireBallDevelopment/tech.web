@@ -44,7 +44,7 @@ option:hover{
   border: solid black 2px;
   font-family: 'Montserrat', sans-serif;
   font-size: 15px;
-  width: 350px;
+  width: 250px;
   height: 30px;
   margin-top: 20px;
 }
@@ -52,6 +52,7 @@ option:hover{
 #submit{
   border: solid black 2px;
   font-family: 'Montserrat', sans-serif;
-  width: 200px;
+  width: 350px;
   height: 30px;
+  margin-top: 10px;
 }
