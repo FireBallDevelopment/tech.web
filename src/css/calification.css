@@ -18,6 +18,10 @@ select{
   margin-top: 30px;
 }
 
+option:hover{
+  background-color: #0390fc;
+}
+
 #score{
   margin-top: 20px;
   width: 300px;
