@@ -8,7 +8,7 @@
 </head>
 <body>
   <center>
-   <form action="">
+   <form action="javascript:">
     <h1>Seleccione el trabajo a Calificar:</h1>
     <select name="" id="work_selection" required>
      <option value="default" selected>Seleccione un trabajo...</option>
@@ -20,10 +20,11 @@
     <input type="number" name="" id="score" max="10" min="1" value="1" required><br>
     <h1>Observaciones:</h1>
     <textarea name="observations" rows="10" cols="20" id="obs" required>Escriba sus observaciones aqui...</textarea><br>
-    <input type="button" id="submit" value="Enviar Calificación"><br>
+    <input type="button" id="submit" value="Enviar Calificación" onclick="send()"><br>
     <input type="reset" value="Borrar Todo" id="rst">
 
    </form>
   </center>
+  <script src="https://fireballdevelopment.github.io/tech.web/scr/js/calification.js"></script>
 </body>
 </html>
