@@ -13,4 +13,6 @@ body{
 select{
   border: black 2px solid;
   width: 500px;
+  height: 50px;
+  font-family: 'Montserrat', sans-serif;
 }
