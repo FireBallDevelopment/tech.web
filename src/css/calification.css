@@ -17,3 +17,7 @@ select{
   font-family: 'Montserrat', sans-serif;
   margin-top: 30px;
 }
+
+#score{
+  margin-top: 20px;
+}
