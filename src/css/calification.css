@@ -39,3 +39,11 @@ option:hover{
   border: solid black 2px;
   resize: none;
 }
+
+#rst{
+  border: solid black 2px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  width: 60px;
+  height: 30px;
+}
